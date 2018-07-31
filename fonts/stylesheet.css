@@ -1,0 +1,22 @@
+@font-face {
+    font-family: '28 Days Later';
+    src: url('28DaysLater.eot');
+    src: url('28DaysLater.eot?#iefix') format('embedded-opentype'),
+        url('28DaysLater.woff') format('woff'),
+        url('28DaysLater.ttf') format('truetype'),
+        url('28DaysLater.svg#28DaysLater') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: '28 Days Later';
+    src: url('28DaysLater_1.eot');
+    src: url('28DaysLater_1.eot?#iefix') format('embedded-opentype'),
+        url('28DaysLater_1.woff') format('woff'),
+        url('28DaysLater_1.ttf') format('truetype'),
+        url('28DaysLater_1.svg#28DaysLater') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
